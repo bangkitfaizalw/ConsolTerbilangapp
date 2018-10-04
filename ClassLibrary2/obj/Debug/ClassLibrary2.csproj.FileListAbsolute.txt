@@ -1,0 +1,5 @@
+D:\MATERI\Jarkom\consol\ConsoleAppterbilang\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+D:\MATERI\Jarkom\consol\ConsoleAppterbilang\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+D:\MATERI\Jarkom\consol\ConsoleAppterbilang\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
+D:\MATERI\Jarkom\consol\ConsoleAppterbilang\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+D:\MATERI\Jarkom\consol\ConsoleAppterbilang\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
